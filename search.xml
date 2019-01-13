@@ -4,30 +4,11 @@
   
     
     <entry>
-      <title>day3</title>
-      <link href="/2019/01/13/day2/"/>
-      <url>/2019/01/13/day2/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 日记,2019-1-13 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>day1</title>
       <link href="/2019/01/11/day1/"/>
       <url>/2019/01/11/day1/</url>
       
-        <content type="html"><![CDATA[<p>今天是搭建好博客的第一天，搭建好了博客就继续学习web安全了，在i春秋看见一篇文章是一个众测项目什么的，想着自己虽然没有什么技术但去玩玩啊，哈哈，但是果然不是要邀请码就需要挖一些懂，尴尬了。。。<br>        逛了一会i春秋，然后又去土司又去freebuf<br>        晚上又去潭州课堂看了一个爬虫直播，自己做了一下，遇到了一次bug，但是自己分析解决了，很高兴。继续敲代码去了<br>        遇到了很多bug但是找到了一个好心人回答我，在最后快要完成的时候遇到了一个bug，问大神但大神好像已经睡了，我试着自己解决但是都不行所以决定睡了，明天慢慢解决。</p>]]></content>
+        <content type="html"><![CDATA[<p>今天是搭建好博客的第一天，搭建好了博客就继续学习web安全了，在i春秋看见一篇文章是一个众测项目什么的，想着自己虽然没有什么技术但去玩玩啊，哈哈，但是果然不是要邀请码就需要挖一些懂，尴尬了。。。<br>        逛了一会i春秋，然后又去土司又去freebuf<br>        晚上又去潭州课堂看了一个爬虫直播，自己做了一下，遇到了一次bug，但是自己分析解决了，很高兴。继续敲代码去了<br>        遇到了很多bug但是找到了一个好心人回答我，在最后快要完成的时候遇到了一个bug，问大神但大神好像已经睡了，我试着自己解决但是都不行所以决定睡了，明天慢慢解决。<br>        最后突然有了思路，终于把代码写完了，一个小说爬取器。</p><p><img src="./images/%E4%BB%A3%E7%A0%81.png" alt="" title="代码.png"></p><p><img src="./images/%E6%95%88%E6%9E%9C.png" alt="enter description here" title="效果.png"></p>]]></content>
       
       
       
@@ -36,19 +17,6 @@
             <tag> 日记 2019-1-13 </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2019/01/11/hello-world/"/>
-      <url>/2019/01/11/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-      
-      
       
     </entry>
     
