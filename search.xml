@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>day3</title>
+      <link href="/2019/01/15/day3/"/>
+      <url>/2019/01/15/day3/</url>
+      
+        <content type="html"><![CDATA[<p>今天是搭建好博客的第3天，今天试着去挖了一下逻辑洞，带一个都没有挖到，然后去看Python直播，今天又做了一个Python爬虫，但这次不是用re模块来匹配源码，而是用pyquery模块来匹配的，这个是靠id和class来匹配的非常方便，今天爬取了4399上面炉石传说的角色图片，刚开始是写在更目录下，但看见老师是创建了文件夹放在里文件夹里，我也跟着做但是不会指定文件夹，刚好老师也把代码划过了，所以只好去百度，百度了半天还是不会。看着代码看了半天突然有了思路，试着做了一下，竟然成功了。</p><p>是这样的在open的第一个关键字里直接把文件路径放上去就行了。</p><blockquote><p>   file = open( ‘E:\pycharm\项目\4399_炉石_爬虫\4399图片’ + ‘\‘ + name + ‘.jpg’,’wb’)</p></blockquote><h3 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h3><p><img src="https://jy001.github.io/webfile/day3/效果.png" alt=""></p><h3 id="代码地址"><a href="#代码地址" class="headerlink" title="代码地址"></a>代码地址</h3><p><a href="https://github.com/Jy001/Jy001.github.io/blob/master/webfile/day3/4399.py" target="_blank" rel="noopener">https://github.com/Jy001/Jy001.github.io/blob/master/webfile/day3/4399.py</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 日记,2019-1-15 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>day2</title>
       <link href="/2019/01/14/day2/"/>
       <url>/2019/01/14/day2/</url>
