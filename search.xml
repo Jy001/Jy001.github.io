@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>day4</title>
+      <link href="/2019/01/17/day4/"/>
+      <url>/2019/01/17/day4/</url>
+      
+        <content type="html"><![CDATA[<p>今天是搭建好博客的第4天，今天没有做什么，就去看了一会Python直播，做一个有声网站，但是没有做成功，非常失败，非常的失败，但是也学习到了新内容。</p><p>就是这个模块，可以把文字转换为mp3模式。也就是有声小说，</p><blockquote><p>   from aip import  AipSpeech。</p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 日记,2019-1-16 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>day3</title>
       <link href="/2019/01/15/day3/"/>
       <url>/2019/01/15/day3/</url>
